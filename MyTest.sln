@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsle", "TestConsle\TestConsle.csproj", "{864D62F4-6C22-40C3-9868-B76C1FD64F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864D62F4-6C22-40C3-9868-B76C1FD64F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864D62F4-6C22-40C3-9868-B76C1FD64F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864D62F4-6C22-40C3-9868-B76C1FD64F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864D62F4-6C22-40C3-9868-B76C1FD64F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB147C9E-F998-4C97-8F45-B5E49A642449}
+	EndGlobalSection
+EndGlobal
